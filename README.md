@@ -1,2 +1,4 @@
-# Plantvillage
-HackPSU - PlantVillage Challenge Entry
+# PlantDoctor
+Challenges Entering
+HackPSU - PlantVillage - Digitize Agriculture
+HackPSU - Environmental Change 
