@@ -1,6 +1,7 @@
 # PlantDoctor
-Challenges Entering
+This is a prototype built for HackPSU
 
-HackPSU - PlantVillage - Digitize Agriculture
+Winning project in the Environmental Change category and Plant Village - Digitize Argriculture
 
-HackPSU - Environmental Change 
+
+
